@@ -1,0 +1,28 @@
+body {
+    background: rgb(70, 211, 236);
+    font: normal 15pt arial; 
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+div {
+    text-align: center;
+    padding: 8px;    
+}
+div#sauda{
+    font: normal 30pt arial black;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
